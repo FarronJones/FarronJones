@@ -40,7 +40,7 @@ My goal is to become a **versatile backend developer** with strong data analytic
 
 ### Skills & Tools
 
-#### Icons
+
 
 <p align="center">
   <img src="https://wiki.socr.umich.edu/images/a/a2/JAVA_animated.gif" width="100" alt="Java">
