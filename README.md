@@ -40,14 +40,17 @@ My goal is to become a **versatile backend developer** with strong data analytic
 
 ### Skills & Tools
 
-#### Left Icons
+#### Icons
 
-- ![Java](https://wiki.socr.umich.edu/images/a/a2/JAVA_animated.gif)
-- ![JavaScript](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZmOGpsbGhpMXZzNTc1eTIzNXAzZG1hdGJyY214MjdwM3FhOXduZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif)
-- ![HTML](https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/200w.gif?cid=6c09b952tx6yczra8r8qozft8v405pakf0y93rjaqzdt689f&ep=v1_gifs_search&rid=200w.gif&ct=g)
+<p align="center">
+  <img src="https://wiki.socr.umich.edu/images/a/a2/JAVA_animated.gif" width="100" alt="Java">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZmOGpsbGhpMXZzNTc1eTIzNXAzZG1hdGJyY214MjdwM3FhOXduZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" alt="JavaScript">
+  <img src="https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/200w.gif?cid=6c09b952tx6yczra8r8qozft8v405pakf0y93rjaqzdt689f&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100" alt="HTML">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e69ab290704783.5e39e8ad5f86f.gif" width="100" alt="Node.js">
+  <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952md9km6pshgah849b0nj3f1op9x6n2ul0zimndaxh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" alt="React">
+  <img src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/100.gif?cid=6c09b952u5ferl3puvvt7n9n75v44ewyv24y1tqx46qj26nm&ep=v1_gifs_search&rid=100.gif&ct=g" width="100" alt="SQL">
+</p>
 
-#### Right Icons
+---
 
-- ![Node.js](https://mir-s3-cdn-cf.behance.net/project_modules/hd/e69ab290704783.5e39e8ad5f86f.gif)
-- ![React](https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952md9km6pshgah849b0nj3f1op9x6n2ul0zimndaxh&ep=v1_stickers_search&rid=giphy.gif&ct=s)
-- ![SQL](https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/100.gif?cid=6c09b952u5ferl3puvvt7n9n75v44ewyv24y1tqx46qj26nm&ep=v1_gifs_search&rid=100.gif&ct=g)
+
