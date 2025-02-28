@@ -17,7 +17,7 @@ My goal is to become a **versatile backend developer** with strong data analytic
 ## 📂 My Projects
 
 - [Learning Git](https://github.com/FarronJones/learning-git)
-- [Personal Project](https://github.com/FarronJones/PersonalProject)
+- [GameMash](https://github.com/FarronJones/GameMash)
 - [QuantumBot Core](https://github.com/FarronJones/QuantumBotCore)
 - [CosmoChat UI](https://github.com/FarronJones/CosmoChatUI)
 - [Kai Platform Test](https://github.com/FarronJones/kai-platform-test)
