@@ -26,7 +26,7 @@ My goal is to become a **versatile backend developer** with strong data analytic
 
 ## 📜 Resume
 
-🔗 [View Resume](https://raw.githubusercontent.com/FarronJones/Resume/main/FarronResume.pdf)  
+🔗 [View Resume](https://raw.githubusercontent.com/FarronJones/Resume/main/FarronJonesResume.pdf)  
 <embed src="https://github.com/FarronJones/Resume/raw/main/FarronResume.pdf" width="100%" height="500px" type="application/pdf">
 
 ---
