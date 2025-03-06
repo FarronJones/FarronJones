@@ -6,11 +6,13 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Farron Jones**, a **senior Computer Science student** at Saint Xavier University with a passion for **software development and problem-solving**.  
-I specialize in **Java** and enjoy working on innovative solutions.
+Hi, I’m Farron Jones, a Computer Science graduate with a solid foundation in software engineering and hands-on experience as an intern at Reality AI. With a strong passion for backend Java development, I’m focused on expanding my expertise and refining my skills in software development and technical project management.
 
-I've developed **AI chatbots**, **game projects**, and explored **data security & system design** through internships and personal projects.  
-My goal is to become a **versatile backend developer** with strong data analytics and system architecture skills.
+Through internships and personal projects, I’ve had the opportunity to work on a variety of applications, including building AI chatbots, developing game projects, and exploring key areas like data security, system design, and user interaction. These experiences have helped me strengthen my problem-solving skills and prepare for the challenges of modern software development.
+
+As I pursue my career goals, I’m dedicated to growing as a well-rounded developer and evolving into a technical project manager, combining my technical expertise with leadership and time management skills. I’m eager to continue learning, collaborate on innovative projects, and contribute meaningfully to teams.
+
+Feel free to explore my work and connect with me—I’m excited about opportunities to collaborate and grow within the field of software development and project management.
 
 ---
 
