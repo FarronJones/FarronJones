@@ -1,6 +1,6 @@
 # Farron Jones
 
-**Senior Computer Science Student | Software Developer | Problem Solver**
+**Computer Scientist | Software Developer | Problem Solver**
 
 ---
 
